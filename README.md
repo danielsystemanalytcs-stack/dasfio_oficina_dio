@@ -18,7 +18,7 @@ O principal objetivo deste esquema é suportar a execução e o faturamento de O
 
 *(Insira aqui a imagem do seu diagrama final, **Oficina_3.png**)*
 
-![Diagrama do Modelo de Dados da Oficina Mecânica](Oficina_3.png)
+![Diagrama do Modelo de Dados da Oficina Mecânica](https://github.com/danielsystemanalytcs-stack/dasfio_oficina_dio/blob/main/Oficina.png)
 
 ### Resumo das Entidades
 
@@ -54,7 +54,6 @@ Os relacionamentos de Muitos-para-Muitos (N:M) são cruciais e foram resolvidos 
 ## ⚙️ Tecnologias
 
 * **Modelagem:** MySQL Workbench / Modelo Entidade-Relacionamento (DER)
-* **Banco de Dados Alvo:** MySQL (SQL DDL)
 
 ---
 
@@ -68,4 +67,4 @@ Sinta-se à vontade para propor melhorias neste modelo, como adicionar entidades
 4.  Abra um **Pull Request**.
 
 ---
-Modelo desenvolvido por **[SEU NOME / SEU USUÁRIO DO GITHUB]**
+Modelo desenvolvido por **[Daniel Silva / github.com/danielsystemanalystc-stack]**
